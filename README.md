@@ -10,6 +10,7 @@ Whether you’re a lone developer or a large business, we have what you need to 
 
 Please visit our website: 
 https://www.rakwireless.com/
+
 https://store.rakwireless.com/
 
 This channel is focused on the Hong Kong region. We will share automation scripts related to the Hong Kong area, helping our customers deploy RAK products more efficiently. 
