@@ -8,9 +8,8 @@ We help everyone who needs IoT
 We help transform ideas into IoT solutions
 Whether you’re a lone developer or a large business, we have what you need to prototype ideas fast and realistically
 
-Please visit our website: 
+Please visit our website:
 https://www.rakwireless.com/
-
 https://store.rakwireless.com/
 
 This channel is focused on the Hong Kong region. We will share automation scripts related to the Hong Kong area, helping our customers deploy RAK products more efficiently. 
